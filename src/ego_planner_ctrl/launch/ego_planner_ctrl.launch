@@ -1,0 +1,10 @@
+<launch>
+    <!-- 启动 fuel_planner 节点，无任何参数（等价于 rosrun fuel_planner fuel_planner） -->
+    <node 
+        pkg="fuel_planner"       
+        type="fuel_planner"      
+        name="fuel_planner"      
+        output="screen"          
+        respawn="false"          
+    />
+</launch>
