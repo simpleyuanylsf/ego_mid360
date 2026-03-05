@@ -8,7 +8,7 @@
 
 - 无人机平台 + PX4 飞控
 - Livox MID360 LiDAR
-- 机载计算机（NUC/Jetson 等）
+- 香橙派5 max16g
 
 ## 软件依赖
 
